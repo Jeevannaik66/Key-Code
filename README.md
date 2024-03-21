@@ -10,6 +10,7 @@ This is a simple web application that displays key-related information such as k
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Screenshot](#screenshot)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -27,6 +28,14 @@ This web application provides a basic interface to view the key, code, and key c
 ## Usage
 
 To use this application, simply open it in a web browser. Press any key on your keyboard, and you will see the corresponding key, code, and key code displayed on the screen.
+
+## Screenshot
+
+
+
+![Keycode Screenshots](https://github.com/Jeevannaik66/Key-Code/assets/117274229/0f658706-1519-4620-a862-68bc936232f1)
+
+
 
 ## Getting Started
 
